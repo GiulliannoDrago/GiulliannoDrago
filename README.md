@@ -1,12 +1,12 @@
 <p align="center">
   <a href="https://drive.google.com/uc?export=download&id=15B9sVQpIXlQ2JeYOm9V5SNiLHiInW9tU" target="_blank" rel="download org image">
-    <img src="https://github.com/GiulliannoDrago/imagem/blob/main/Lord-of-Nazarick.webp" alt="Profile" />
+    <img src="https://github.com/GiulliannoDrago/imagem/blob/main/Lord-of-Nazarick.webp?raw=true" alt="Profile" />
   </a>
 </p>
 
 <p align="center">
   <span style="display:inline-block; border:2px solid white; padding:4px;">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=483D8B&size=35&center=true&vCenter=true&width=1000&lines=Hello,+world!;I'm+a+mechanical+designer.;Welcome+to+my+library." alt="Typing" />
+    <img src="https://readme-typing-svg.demolab.com/?color=483D8B&size=35&center=true&vCenter=true&width=1000&lines=Hello,+world!;I'm+a+mechanical+designer.;Welcome+to+my+library." alt="Typing" />
   </span>
 </p>
 
@@ -14,8 +14,6 @@
 <p align="center">
   <img src="https://github.com/GiulliannoDrago/imagem/blob/main/separator.gif?raw=true" alt="Separator" />
 </p>
-<ul>
-  
 
 <h2>📘 About Me</h2>
 
@@ -39,7 +37,6 @@
 <p align="center">
   <img src="https://github.com/GiulliannoDrago/imagem/blob/main/separator.gif?raw=true" alt="Separator" />
 </p>
-<ul>
 
 <h2> 🛠️ CAD Experience</h2>
 
