@@ -24,7 +24,7 @@
      width="260">
 
 <ul>
-  <li>🧑‍🔧 23 years old</li>
+  <li>🧑‍🔧 24 years old</li>
   <li>🌐 From southern Brazil</li>
   <li>🎓 Mechanical Engineering <strong>Graduate</strong></li>
   <li>🛠️ Mechanical <strong>Designer</strong> focused on CAD modeling and engineering automation</li>
